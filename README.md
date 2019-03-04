@@ -5,9 +5,13 @@ Simple water shader prepared with ShaderGraph in Unity 2018.3.6. Has still a lot
 Just drag 1 or 2 normal maps to the textures and have fun with the settings :)
 
 Settings(Skipping obvious ones like the main color):
+
 Top Color: The outside color of the fresnel effect.
+
 Speed: Sets the speed of blending. Can get jiggy on high speeds.
+
 AngleDim: Sets the power of the fresnel effect (The color changes depending on your angle of view)
+
 Smooth: Specular smooth.
 
 # To-do
