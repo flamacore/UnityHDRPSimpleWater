@@ -12,7 +12,9 @@ Smooth: Specular smooth.
 
 # To-do
 -Actual vertex moving waves. I know how to do it but do not have the time for that yet. Will come eventually. 
+
 -Preventing "intersection repeats". You'll notice probably after tweaking it some time.
+
 -Foam on the edges.
 
 
