@@ -1,6 +1,9 @@
 # UnityHDRPSimpleWater
 Simple water shader prepared with ShaderGraph in Unity 2018.3.6. Has still a lot more work to be done but still might be of use to someone so here it is :) Not likely to get updated frequently but will be updated eventually.
 
+# Update
+Added waving and a crude way of edge foam. Will improve but still should be useful enough :)
+
 # How to
 Just drag 1 or 2 normal maps to the textures and have fun with the settings :)
 
