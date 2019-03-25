@@ -17,12 +17,18 @@ AngleDim: Sets the power of the fresnel effect (The color changes depending on y
 
 Smooth: Specular smooth.
 
+A lot of wave settings (Just tinker with them and you'll see)
+
+
+Edge Alpha: Adds the alpha from this texture to the foam. Can be used to add some form of simple variance
+
+Clamp Edge Brightness: You will need to adjust this especially if you have bloom enabled.
+
+Edge Offset: How long is the foam?
+
 # To-do
--Wave controls
 
 -Preventing "intersection repeats". You'll notice probably after tweaking it some time.
-
--Foam thickness controls
 
 [![water.png](https://i.postimg.cc/kX1tZCkK/water.png)](https://postimg.cc/GHD28W3m)
 
