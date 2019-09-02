@@ -3,6 +3,8 @@ Simple water shader prepared with ShaderGraph in Unity 2018.3.6. Has still a lot
 
 Demonstration Video: https://youtu.be/rvMm2hA8FtM
 
+### Update 3
+Added a working scene file with an example
 
 ### Update 2
 Added wave controls and Edge foam settings.
