@@ -1,7 +1,13 @@
-# UnityHDRPSimpleWater
-Simple water shader prepared with ShaderGraph in Unity 2018.3.6. Has still a lot more work to be done but still might be of use to someone so here it is :) Not likely to get updated frequently but will be updated eventually.
+# Unity HDRP Free Realistic Water
+Simple water shader prepared with ShaderGraph in Unity 2018.3.6 and 2019.3.1f1. Has still a lot more work to be done but still might be of use to someone so here it is :) Not likely to get updated frequently but will be updated eventually.
 
-Demonstration Video: https://youtu.be/rvMm2hA8FtM
+Demonstration Video: https://youtu.be/rvMm2hA8FtM  
+Demonstration Video for 2019.3.0f1: https://youtu.be/trioIIom-Qw  
+My asset store page with other cool HDRP stuff like glasses, flame vfx and more: https://assetstore.unity.com/publishers/19358
+
+## Update 4 (Long time no see)
+Renewed the shader to be compatible for 2019.3.1f1. Added a tiny tiny readme which also includes a link to my asset store page. (Because why not? :) )  
+Also added a .unitypackage file for convenience.
 
 ### Update 3
 Added a working scene file with an example
