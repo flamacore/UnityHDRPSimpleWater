@@ -5,6 +5,10 @@ Demonstration Video: https://youtu.be/rvMm2hA8FtM
 Demonstration Video for 2019.3.0f1: https://youtu.be/trioIIom-Qw  
 My asset store page with other cool HDRP stuff like glasses, flame vfx and more: https://assetstore.unity.com/publishers/19358
 
+#### Update 5
+A conributor just fixed a weird ripple issue that happened with camera movement. Merged the pull request.
+Credit: https://github.com/ryantwarner
+
 ## Update 4 (Long time no see)
 Renewed the shader to be compatible for 2019.3.1f1. Added a tiny tiny readme which also includes a link to my asset store page. (Because why not? :) )  
 Also added a .unitypackage file for convenience.
